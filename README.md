@@ -8,3 +8,6 @@ Excel Project using pivot tables to summarize sales data.
 
 ### 2. python_practice.ipynb
 Python practice using different porgramming concepts.
+
+### 3. data_structures_exercises.ipynb
+Python practice focused on data structures.

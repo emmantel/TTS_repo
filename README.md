@@ -14,3 +14,6 @@ Python practice focused on data structures.
 
 ### 4. control_flow_exercises.ipynb
 Python practice focused on control flow.
+
+### 5. function_errors_exercises.ipynb
+Python practice focused on functions and error handling.

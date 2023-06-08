@@ -17,3 +17,6 @@ Python practice focused on control flow.
 
 ### 5. function_errors_exercises.ipynb
 Python practice focused on functions and error handling.
+
+### 6. iterators_lists_exercises.ipynb
+Python practice focused on iterators and lists (itertools).

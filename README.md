@@ -23,3 +23,6 @@ Python practice focused on iterators and lists (itertools).
 
 ### 7. classes_exercises.ipynb
 Python practice focused on classes (complex number example).
+
+### 8. inheritance_exercises.ipynb
+Python practice focused on inheritance (class and subclass example)

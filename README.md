@@ -20,3 +20,6 @@ Python practice focused on functions and error handling.
 
 ### 6. iterators_lists_exercises.ipynb
 Python practice focused on iterators and lists (itertools).
+
+### 7. classes_exercises.ipynb
+Python practice focused on classes (complex number example).

@@ -29,3 +29,6 @@ Python practice focused on inheritance (class and subclass example).
 
 ### 9. NumPy_exercises.ipynb
 Python practice focused on numpy.
+
+### 10. Pandas_Project.ipynb
+Comprehensive Pandas practice in several parts (links in document).
